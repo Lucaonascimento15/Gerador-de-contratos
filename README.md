@@ -2,11 +2,11 @@
 Gerador de contratos padronizados
 Ferramenta que transforma o preenchimento manual de contratos de locação de stand em um formulário simples com preview em tempo real. Feita para reduzir um processo que levava horas para poucos minutos.
 
-O problema
+#O problema:
 
-A cada edição do evento Boulevard Geek XP, cada expositor (stands, mercadinhos/artistas e categoria alimentação) precisa de um contrato individual, com dados e condições próprias: nome, CPF/CNPJ, endereço, valor, prazos, horários de funcionamento, mesas e cadeiras cedidas, entre outras cláusulas. Editar contrato por contrato manualmente, a partir de modelos em PDF, consumia cerca de 7 horas por rodada de expositores.
+A cada edição de um evento, cada expositor (stands, mercadinhos/artistas e categoria alimentação) precisa de um contrato individual, com dados e condições próprias: nome, CPF/CNPJ, endereço, valor, prazos, horários de funcionamento, mesas e cadeiras cedidas, entre outras cláusulas. Editar contrato por contrato manualmente, a partir de modelos em PDF, consumia cerca de 12 horas por rodada de expositores.
 
-A solução
+#A solução:
 
 Um app de página única (HTML/CSS/JS, sem backend) que:
 
@@ -18,7 +18,7 @@ Exporta o resultado por cópia direta, download em .txt ou impressão/exportaç�
 
 O que antes era um processo manual de ~7 horas por rodada de expositores passou a levar cerca de 20 minutos.
 
-Como usar
+#Como usar:
 Baixe e abra o arquivo gerador-contratos.html em qualquer navegador — não precisa de instalação nem servidor.
 Escolha o modelo de contrato no topo (Stand, Mercadinho/Artista ou Alimentação).
 Preencha os dados do expositor e as condições comerciais do evento.
